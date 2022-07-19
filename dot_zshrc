@@ -1,0 +1,4 @@
+
+eval "$(atuin init zsh)"
+
+source /home/pluriscient/.config/broot/launcher/bash/br
